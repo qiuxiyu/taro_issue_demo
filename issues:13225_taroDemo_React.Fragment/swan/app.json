@@ -1,0 +1,17 @@
+{
+  "pages": [ "pages/home/helloworld" ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#efefef"
+  },
+  "widgets": [ { "type": "search", "path": "search" } ],
+  "subPackages": [
+    {
+      "root": "pages/taroDemo",
+      "pages": [ "index" ]
+    }
+  ],
+  "preloadRule": {}
+}

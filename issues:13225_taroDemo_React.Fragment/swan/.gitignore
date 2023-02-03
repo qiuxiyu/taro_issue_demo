@@ -1,0 +1,10 @@
+typings
+.vscode/
+jsconfig.json
+**/jsconfig.json
+typings/
+typings/*
+.idea
+.DS_Store
+.history
+project.swan.json
