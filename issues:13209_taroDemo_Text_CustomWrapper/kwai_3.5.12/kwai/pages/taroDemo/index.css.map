@@ -1,0 +1,1 @@
+{"version":3,"file":"pages/taroDemo/index.css","mappings":"AAAA,OACE,eACF","sources":["webpack://tarobaseproject/./src/pages/taroDemo/index.scss"],"sourcesContent":[".index {\n  font-size: 40px;\n}\n"],"names":[],"sourceRoot":""}

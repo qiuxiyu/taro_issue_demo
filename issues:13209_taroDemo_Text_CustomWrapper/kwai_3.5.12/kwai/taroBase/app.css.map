@@ -1,0 +1,1 @@
+{"version":3,"file":"app.css","mappings":"AAAA,OACE,SACF","sources":["webpack://tarobaseproject/./src/app.scss"],"sourcesContent":[".index {\n  color: red\n}\n"],"names":[],"sourceRoot":""}

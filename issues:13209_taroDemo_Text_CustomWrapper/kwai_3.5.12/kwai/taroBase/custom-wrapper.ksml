@@ -1,0 +1,4 @@
+<import src="./base.ksml" />
+  <block ks:for="{{i.cn}}" ks:key="sid">
+    <template is="tmpl_0_container" data="{{i:item}}" />
+  </block>
