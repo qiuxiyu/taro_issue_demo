@@ -19,7 +19,7 @@ export default class Index extends React.Component {
       <View className='index'>
         123
         <React.Fragment>test fText</React.Fragment>
-        <React.Fragment>{this.fText}</React.Fragment>
+        <React.Fragment>{this.state.fText}</React.Fragment>
       </View>
     )
   }
